@@ -1,0 +1,32 @@
+.container .clear{
+	clear:both;
+}
+.container .nav-tabs{
+	margin-bottom:20px;
+}
+.container .panel-heading{
+	padding:0;
+}
+.container .panel-group .panel-title a{
+	display:block;
+	padding: 10px 15px;
+	text-decoration: none;
+}
+.container .panel-group .panel-title a:hover{
+	text-decoration: none;
+}
+.container .btn-cadastrar{
+	margin-bottom:20px;
+}
+.container .well{
+	margin-bottom:0;
+}
+.container #produtoCadastrarDescricao, .container #produtoAlterarDescricao{
+	resize:vertical;
+}
+.container .modal .form-control{
+	margin-bottom:15px;
+}
+.container .content-pedidos{
+	margin-top:20px;
+}
